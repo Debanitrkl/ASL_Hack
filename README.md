@@ -4,7 +4,7 @@
 
 ## What our app does:
 
-SIGNify is an innovative app that closes the communication gap faced by members of the Deaf and Hard of Hearing communities, who primarily use American Sign Language (ASL) to communicate. SIGNify uses Artificial Intelligence and Machine Learning to recognize ASL signs and convert them into text and audio, allowing Deaf individuals to use sign language to communicate with those who are unfamiliar with it. SIGNify has the potential to make a positive impact for the approximately 600,000 Deaf individuals in the US.
+Medlink is an innovative app that closes the communication gap faced by members of the Deaf and Hard of Hearing communities, who primarily use American Sign Language (ASL) to communicate. SIGNify uses Artificial Intelligence and Machine Learning to recognize ASL signs and convert them into text and audio, allowing Deaf individuals to use sign language to communicate with those who are unfamiliar with it. SIGNify has the potential to make a positive impact for the approximately 600,000 Deaf individuals in the US.
 In this pilot version of SIGNify, Deaf individuals can fingerspell (use ASL alphabet signs to spell out words) words into their phone or laptop camera. The app then uses a machine learning model to predict the letter being signed in each frame of the video. It collects the stream of predicted letters and uses a filtering algorithm to extract the text being signed. It has an autocorrect feature to correct any misspelled words, in case the model misses or wrongly classifies a letter. After the user finishes signing their text, the app reads out the text using text-to-speech.
 
 ## What inspired us to create it:
